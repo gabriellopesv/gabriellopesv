@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Vieira
-- 👀 I’m interested in IT area (programation and system analystics)
-- 👨‍💻 I’m currently learning programation languages, for example: JS (HTML and CSS) System analystics and web development. 
+- 👀 I’m interested in IT area (development)
+- 👨‍💻 I’m currently learning programation languages, for example: C# .NET and SQL Server.
 - 💞️ I’m looking to collaborate on community of IT area and will grow in the knowledgement about.
 - 📫 How to reach me: my e-mail is ogabriellopesv@gmail.com
 
