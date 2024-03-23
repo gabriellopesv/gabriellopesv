@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Vieira
-- 👀 I’m enthusiast of IT area
-- 👨‍💻 I’m currently learning PL/SQL Oracle Database. I've learned C#, Python and Java about prog. languages.
-- 💞️ I’m looking to collaborate on community of IT area and will grow in the knowledgement about analysis and systems development.
+- 👨🏻‍💻 I’m enthusiast of IT area
+- I've learned C# and Java in POO. SQL Server in the relational database, and currently learning Python in automation and data analysis.
+- I’m looking to collaborate on community of IT area and will grow in the knowledgement about analysis and systems development.
 - 📫 How to reach me: my e-mail is ogabriellopesv@gmail.com
 
 <!---
